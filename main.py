@@ -284,5 +284,21 @@ while True:
     clock.tick(30)
 
 
+x,y, = 
+ 
+ draw 
+ update
+ fps = 30
 
-    
+
+vx = (v * 0.1) + 2* input(up - down)
+0.3
+vy = 
+
+1 0
+1 0
+
+v = 100
+v = 80
+v - 
+
